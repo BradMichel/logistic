@@ -1,0 +1,8 @@
+application: bee
+# max 10 routing rules
+
+dispatch:
+  - url: "*/api/ecwa/*"
+    module: biudLogistics
+  - url: "*/api/bee/*"
+    module: biudLogistics

@@ -1,0 +1,921 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Nodos Recolección de Residuos Sólidos con Motocarros</name>
+		<description><![CDATA[Nodos:<br>Usuarios, puntos de transferencia y garaje.]]></description>
+		<Folder>
+			<name>Usuarios Moto 1</name>
+			<Placemark>
+				<name>Edificio Maria Ema</name>
+				<description><![CDATA[Cll 39 #23-20]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1187156,7.1187093,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Martha Cecilia</name>
+				<description><![CDATA[Cll 39 #23-30]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1187585,7.1186774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Metro</name>
+				<description><![CDATA[Cll 34 #15-80]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.126317,7.1195277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peleterías</name>
+				<description><![CDATA[Cll 32-Av. Quebradaseca, Cra 14-15]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1283822,7.1208279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante La Brasa</name>
+				<description><![CDATA[Cll 31 #15-12]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1274913,7.1211787,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante Los Andes</name>
+				<description><![CDATA[Cll 35 #17-67]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.12457080000001,7.119357000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante Rosalba</name>
+				<description><![CDATA[Cll 35 #18-55]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.12372860000002,7.1196288,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Usuarios Moto 2</name>
+			<Placemark>
+				<name>Alcaldía</name>
+				<description><![CDATA[Cra 11 #34-52]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.13072850000002,7.1179049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aluvidrios</name>
+				<description><![CDATA[Cll 45 #14A-50]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1256525,7.1141688,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Avisneyder</name>
+				<description><![CDATA[Cll 31 #10-48]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1310202,7.1193541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bancolombia</name>
+				<description><![CDATA[Cll 35 #14-16]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1272148,7.1182755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Villa Romero</name>
+				<description><![CDATA[Cra 9A, cll 45]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1290461,7.1119397,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa del Libro Total</name>
+				<description><![CDATA[Cll 35 #09-81]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1307536,7.1171134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casetas Tierrero</name>
+				<description><![CDATA[Cra 13, Av. Quebradaseca]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1296503,7.1215378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ConSentidos</name>
+				<description><![CDATA[Cra 15 #29-32]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1282387,7.1223476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cristsol</name>
+				<description><![CDATA[Cll 34 #13-23]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1275327,7.119140500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Distriplast</name>
+				<description><![CDATA[Cra 14 #33-38]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1278137,7.1195264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Machete</name>
+				<description><![CDATA[Cll 34 #14-43]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.127243,7.1192616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gráficos Trijaimes</name>
+				<description><![CDATA[Cll 35 #09-50]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1307379,7.1170419,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Notaría Séptima</name>
+				<description><![CDATA[Cra 12 #35-05]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1289636,7.1176447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parqueadero</name>
+				<description><![CDATA[Cll 35 #09-42]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.13090890000001,7.1169866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Raspados El Manantial</name>
+				<description><![CDATA[Cra 10 #34-50]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.130755,7.1174523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante Aldaba</name>
+				<description><![CDATA[Cll 37 #12-32]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1283661,7.1168309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Secretaría de Salud</name>
+				<description><![CDATA[Cra 9B, cll 45]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1282977,7.1122457,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SKF</name>
+				<description><![CDATA[Av. Quebradaseca #14-24]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1285895,7.1221992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vioplast</name>
+				<description><![CDATA[Cll 34 #14-41]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1272792,7.1192463,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Usuarios Moto 3</name>
+			<Placemark>
+				<name>Banco de La República</name>
+				<description><![CDATA[Cra 19 #34-93]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1233974,7.1199975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Juan Pablo</name>
+				<description><![CDATA[Cra 25 #36-68]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1179606,7.1199529,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Samore</name>
+				<description><![CDATA[Cra 25 #36-63]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1178439,7.1201113,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Urbano 24</name>
+				<description><![CDATA[Cra 24 #39-42]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1182368,7.1185323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Guane</name>
+				<description><![CDATA[Cll 34 #22-72]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1207172,7.121631700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel El Pilar</name>
+				<description><![CDATA[Cll 33A #24-09]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1199393,7.1224068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Metro</name>
+				<description><![CDATA[Cra 16 #37-68]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1251441,7.1169055,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Panadería Trillos</name>
+				<description><![CDATA[Cra 17 #37-84]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1240961,7.1169407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante Claudia</name>
+				<description><![CDATA[Cra 18 #33-10]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1248478,7.1209723,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Usuarios Moto 4</name>
+			<Placemark>
+				<name>Banco Agrario</name>
+				<description><![CDATA[Cll 35 #17-34]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1248638,7.1191534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco Davivienda</name>
+				<description><![CDATA[Cll 35 #16-20]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.12454730000002,7.119272199999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bancolombia</name>
+				<description><![CDATA[Cra 18 #35-02]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1243526,7.119340800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco BBVA</name>
+				<description><![CDATA[Cll 35 #18-02]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1242188,7.1193873,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centro Comercial Panamá</name>
+				<description><![CDATA[Cra 16 #37-29]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1252313,7.117318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Drogueria Pinzón</name>
+				<description><![CDATA[Cll 36 #16-57]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1250546,7.1184391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Arboreto</name>
+				<description><![CDATA[Cll 32 #25-88]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.118961,7.1240936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Palmar 37</name>
+				<description><![CDATA[Cll 37 #23-77]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1189281,7.1196282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edificio Paseo España</name>
+				<description><![CDATA[Cll 33 #26-25]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1184775,7.1236251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Financiera Comultrasan</name>
+				<description><![CDATA[Cll 35 #16-43]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1255153,7.11899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gráficas</name>
+				<description><![CDATA[Cra 23 #32-53]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1215239,7.1241195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rayco</name>
+				<description><![CDATA[Cra 36 #17-75]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1244991,7.1186667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Surtidora de Confecciones</name>
+				<description><![CDATA[Cra 35 #16-61]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1253071,7.1190679,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vidriería Clitsu</name>
+				<description><![CDATA[Cra 24 #35-51]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-73.1191817,7.120792,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Puntos de Transferencia</name>
+			<Placemark>
+				<name>Colegio Salesiano</name>
+				<description><![CDATA[Av. Quebradaseca #11-62]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1306635,7.1213083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Romero</name>
+				<description><![CDATA[Cra 11, cll 44]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1287122,7.1134368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>"Y" La Feria</name>
+				<description><![CDATA[Cll 28, cra 2]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1376131,7.1210049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Quinta Estrella</name>
+				<description><![CDATA[Cra 14A Occ, cll 45]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1421507,7.1015521,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Tecnológico</name>
+				<description><![CDATA[Cll 10, cra 28]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1196128,7.137699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>"La Viuda"</name>
+				<description><![CDATA[Cra 16, cll 5]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.131098,7.1401794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Valle Real</name>
+				<description><![CDATA[Av. Quebradaseca, cra 22]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1227215,7.1248341,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Puente Carrera Novena</name>
+				<description><![CDATA[Cll 45, cra 9]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1300493,7.1122018,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Girardot (1)</name>
+				<description><![CDATA[Cra 4, cll 25]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.13619290000001,7.1223017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Girardot (2)</name>
+				<description><![CDATA[Cra 5 #28-26]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1353708,7.120748,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio La Feria</name>
+				<description><![CDATA[Cll 27, cra 1]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1411026,7.1203835,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crezcamos</name>
+				<description><![CDATA[Av. Quebradaseca, cra 23]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.12191820000001,7.1254057,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Universidad (1)</name>
+				<description><![CDATA[Cra 22 #09-25]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1253634,7.137575200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Santander</name>
+				<description><![CDATA[Cll 30, cra 5]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1350422,7.1195477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cárcel Modelo</name>
+				<description><![CDATA[Cll 45, cra 5]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1321159,7.1108737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cementerio Central</name>
+				<description><![CDATA[Cll 45 #13-30]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1269741,7.1136311,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plaza San Francisco</name>
+				<description><![CDATA[Cra 23, cll 13]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1239352,7.1345332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Puente Jirafa</name>
+				<description><![CDATA[Cra 9, cll 41]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.130874,7.115409,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sena</name>
+				<description><![CDATA[Cra 27, cll 16]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1200111,7.133242400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio 23 de Junio</name>
+				<description><![CDATA[Cra 3, cll 32]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1350918,7.1183699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Gaitán</name>
+				<description><![CDATA[Cll 16, cra 10]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1347284,7.1305822,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Girardot (3)</name>
+				<description><![CDATA[Cll 23, cra 8]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1337809,7.1241534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Girardot (4)</name>
+				<description><![CDATA[Cll 24, cra 4]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1362438,7.1231128,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrio Girardot (5)</name>
+				<description><![CDATA[Cra 5, cll 27]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1355532,7.121657,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Campo Hermoso</name>
+				<description><![CDATA[Cll 45, cra 1]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1357155,7.1083399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canchas del Bosque</name>
+				<description><![CDATA[Cll 31 #13Occ-03]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1431633,7.1137509,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carrera 15</name>
+				<description><![CDATA[Cra 15 #07-55]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1320669,7.1377502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carrera 18</name>
+				<description><![CDATA[Cra 18, cll 18]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1273797,7.129732,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio San Francisco de Asís</name>
+				<description><![CDATA[Cll 31 #01Occ-01]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1368258,7.1182236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colseguros Norte</name>
+				<description><![CDATA[Av. Libertador #09Nor-21]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.13212130000001,7.145073,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glorieta Quebradaseca</name>
+				<description><![CDATA[Cll 30, cra 14]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.128857,7.1221626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glorieta San Francisco</name>
+				<description><![CDATA[Cra 21, cll 6]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1252923,7.1316794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Universidad (2)</name>
+				<description><![CDATA[Cra 24, cll 11]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1234041,7.1364521,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Michelin</name>
+				<description><![CDATA[Cra 21, Av. Quebradaseca]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1233631,7.1242466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parqueadero Base</name>
+				<description><![CDATA[Cra 9, cll 33]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1312744,7.1187426,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Francisco (1)</name>
+				<description><![CDATA[Bul. Santander, cra 22]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1243616,7.132058,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Francisco (2)</name>
+				<description><![CDATA[Cll 21, cra 21]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1244777,7.1277645,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Francisco (3)</name>
+				<description><![CDATA[Cra 21, cll 28]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1236515,7.1251947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Francisco (4)</name>
+				<description><![CDATA[Cra 23, cll 24]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1223057,7.126500200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UIS</name>
+				<description><![CDATA[Cll 9, cra 26A]]></description>
+				<styleUrl>#icon-1465</styleUrl>
+				<Point>
+					<coordinates>-73.1215466,7.1385872,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Otros Puntos</name>
+			<Placemark>
+				<name>Garaje</name>
+				<description><![CDATA[Cll 33 #11-37]]></description>
+				<styleUrl>#icon-1453</styleUrl>
+				<Point>
+					<coordinates>-73.1300459,7.119151200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estación de Servicio La Colombia</name>
+				<description><![CDATA[Cll 33 #24-05]]></description>
+				<styleUrl>#icon-1027</styleUrl>
+				<Point>
+					<coordinates>-73.12021820000001,7.122987999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Auto Cárdenas</name>
+				<description><![CDATA[Av. Quebradaseca #25-13]]></description>
+				<styleUrl>#icon-1067</styleUrl>
+				<Point>
+					<coordinates>-73.12030019999997,7.126463299999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1027-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1027-biz-gas.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1027-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1027-biz-gas.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1027'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1027-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1027-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1067-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1067-biz-plumber.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1067-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1067-biz-plumber.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1067'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1067-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1067-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1197-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1197-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1197'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1197-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1197-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1453-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1453-trans-parking.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1453-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1453-trans-parking.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1453'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1453-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1453-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1465-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1465-trans-truck.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1465-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1465-trans-truck.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1465'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1465-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1465-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

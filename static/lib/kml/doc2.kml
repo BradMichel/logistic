@@ -1,0 +1,830 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Bucaramanga, santander</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Capa sin nombre</name>
+			<Placemark>
+				<name>Colegio Tecnológico</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1191015,7.138810599999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Santander</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1224818,7.1392451,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>institucion gustavo cote uribe</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1396636,7.1498828,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Psicopedagogico Carl Rogers</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11979409999998,7.1237502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Bilingue Divino Niño</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1200235,7.082978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Franciscano del Virrey Solis</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12361959999998,7.130798799999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Bilingue la Consolata</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1297136,7.099499999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Incades</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12256889999998,7.1209104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Metropolitano Real de Minas</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11734430000001,7.102871200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio San Pedro Claver</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11375340000001,7.117068199999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio La Salle Bucaramanga</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11393780000003,7.100396899999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escuela Normal Superior de Bucaramanga</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11744169999997,7.1275713,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>COLEGIO MILITAR GENERAL SANTANDER</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11080270000002,7.129266800000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio del Oriente Miraflores</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10526429999999,7.133480599999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bicentenario de la Independecia de la República de Colombia</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10720650000002,7.126136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>institucion Educativa Las Americas</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11024789999999,7.1264468999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gimnasio Superior</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11919369999998,7.098406900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Jose Celestino Mutis</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13145689999999,7.099915500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Integrado Nuestra Señora Del Divino Amor</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13032279999999,7.0987846,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11428790000002,7.099461699999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>institucion educativa  politecnico</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12293069999998,7.106132200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Institución Educativa Nuestra Señora del Pilar</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12383999999997,7.1066699999999985,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Instituto Técnico Nacional de Comercio</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12281000000002,7.10687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Instituto Santa Maria Goretti</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1241728,7.1050687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Aurelio Martinez Mutis Sede B</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11596359999999,7.1087028,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio INEM Custodio García Rovira</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1186434,7.085428299999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Campo Hermoso</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1389863,7.102646299999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Instituto Educativo Camacho Carreño</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13143459999998,7.1151811,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Salesiano</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13101,7.12169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>COLEGIO DEL SAGRADO CORAZON JESUS</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13071930000001,7.135519,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>INSTITUTO CLUB UNION</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13511729999999,7.1394315,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Institución Educativa Maiporé</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1354215,7.1547334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Concentración Provenza</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11341549999997,7.0830327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio francisco de paula santander</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1380999,7.1165854,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Federico Ozanam</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11100999999996,7.08328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Instituto La Libertad</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10775969999997,7.093448399999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Caldas</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10399319999999,7.100433100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Gimnasio San Sebastián</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.0984421,7.101809599999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Jorge Ardila Duarte</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11696640000002,7.111157800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CENTRO DE DISTRIBUCION</name>
+				<description><![CDATA[barrio gaitan]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1328321,7.1314419,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Cristo Rey</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12913270000001,7.1366279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque San Francisco</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1249707,7.131151299999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque de los Niños</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1191015,7.125203699999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque San Pio</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11071229999999,7.1185493,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Santander</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12285509999998,7.1196351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Las Palmas</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1124843,7.1195396,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Mejoras Públicas</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11507919999997,7.1216845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Antonia Santos</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1221491,7.1225858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Centenario</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1246084,7.1218808000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque de las Estatuas</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10749349999998,7.118928199999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque García Rovira</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13007379999999,7.1169482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Romero</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12841420000001,7.1133234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>parque simon bolivar</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1197107,7.1185549,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Álvarez</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10880529999997,7.1275527,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque de los Leones</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10791929999999,7.123708599999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque de las Cigarras</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12147099999999,7.103680600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Infantil Provenza</name>
+				<styleUrl>#icon-1379-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11585059999999,7.0822588,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estadio la Marte</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11707289999998,7.1385727,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cancha Campohermoso</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13668369999999,7.107056999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cancha de Futbol del Mutis</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1333009,7.0977173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estadio de Atletismo La Flora</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.10597640000003,7.100278199999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque y Canchas Los Naranjos</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12619619999998,7.102296999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Velodromo Alfonso Florez Ortiz</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1155976,7.1352775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cancha de Futbol barrio kennedy</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13494889999998,7.1515364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Polideportivo del Norte</name>
+				<styleUrl>#icon-1353-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13547400000004,7.1486559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Instituto Gabriela Mistral De Bucaramanga</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.11285889999999,7.099585099999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>institucion educativa promocion social del norte
+</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1261051,7.1440251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Institucion educativa liceo patria</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1117499,7.1342151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Tecnico Empresarial José Maria Estevez</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1256075,7.1091553,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Instituto Tecnico Rafael Garcia Herreros</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.13516019999997,7.148932299999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Nuestra Señora de Fatima</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12762889999999,7.1155909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>instituto educativo comuneros</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12861029999999,7.1361046,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>COLEGIOS </name>
+			<Placemark>
+				<name>Colegio de la Santísima Trinidad Bucaramanga</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.12335000000002,7.125859999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colegio Americano de Bucaramanga</name>
+				<styleUrl>#icon-1347-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.1274922,7.1285137,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Style id='icon-1197-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1197-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1197'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1197-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1197-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1347-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1347-poi-university.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1347-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1347-poi-university.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1347-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1347-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1347-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1353-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1353-rec-basketball.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1353-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1353-rec-basketball.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1353-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1353-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1353-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1379-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1379-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1379-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1379-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1379-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

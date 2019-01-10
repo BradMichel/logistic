@@ -1,0 +1,36 @@
+application: bee
+version: beta
+runtime: go
+api_version: go1
+instance_class: B8
+basic_scaling:
+  max_instances: 11
+  idle_timeout: 10m
+
+handlers:
+- url: /api/.*
+  script: _go_app
+
+- url: /favicon\.ico
+  static_files: static/src/img/favicon.ico
+  upload: static/src/img/favicon.ico
+
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+
+- url: /index\.html
+  static_files: static/index.html
+  upload: static/index.html
+
+- url: /(.*\.(svg))$
+  static_files: static/src/img/icons/\1
+  upload: static/src/img/icons/.*/.(svg)$
+
+- url: /(.*\.(gif|png|jpg))$
+  static_files: static/src/img/\1
+  upload: static/src/img/.*/.(gif|png|jpg)$
+
+- url: /((html|js|css|kml)/.*.(html|js|css|kml))$
+  static_files: static/lib/\1
+  upload: static/lib/(html|js|css|kml|kmz)/.*.(html|js|css|kml|kmz)$
